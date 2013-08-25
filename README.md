@@ -3,6 +3,7 @@ Qt_Creator-OpenCV
 
 A sample Qt Gui application using OpenCV 
 
+I used Qt creator for Windows in Windows 7.
 This is a sample program for the following tutorial.
 http://alpburakp.info/?p=126
 
